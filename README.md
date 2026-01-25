@@ -92,7 +92,7 @@ Building predictive maintenance and anomaly detection models for industrial fore
 - Applied FinBERT & RoBERTa transformers for sentiment analysis
 - Built collaborative filtering recommender system from scratch
 
-### 💎 MAO Fine Jewelry E-Commerce (OCT 2017 – FEB 2021)
+### 💎 MAO Fine Jewelry E-Commerce (2017 – 2021)
 Implemented dynamic pricing integrated within e-commerce UX, increasing conversion rates by 12%
 
 ### 🧬 Biotech R&D (2015 – 2017)
@@ -115,7 +115,6 @@ Chemical/Process Engineer developing mathematical simulations for copper leachin
 
 - 💼 LinkedIn: [andres-rogers](https://linkedin.com/in/andres-rogers)
 - 📧 Email: andres.rogers@gmail.com
-- 📱 Phone: +569 3659 8920
 
 ---
 
