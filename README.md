@@ -18,7 +18,7 @@ Senior Data Scientist with **12+ years** in data-driven engineering and **5+ yea
 
 ## 💼 Impact Highlights
 
-- 🎯 **$3M ARR increase** through dynamic pricing models at LATAM Airlines
+- 🎯 **US$3M ARR increase** through dynamic pricing models at LATAM Airlines
 - 📊 **Churn & marketing propensity models** increasing customer retention and boosting marketing ROI at LATAM Airlines
 - 📉 **Reduced forecasting error from 20% to 9.5%** using ensemble time-series models at LATAM Airlines
 - 🔧 **Built AI agents** for automated technical documentation generation at LATAM Airlines
