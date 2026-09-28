@@ -11,7 +11,7 @@ Chile | Remote collaboration with US/Canada teams | EST Timezone
 
 ## About Me
 
-Senior Data Scientist and ML Scientist with a **12+ year engineering trajectory** across aviation, financial services, e-commerce, industrial systems, and applied research.
+Senior Data Scientist and ML Scientist with a **12+ year engineering trajectory** across revenue-management, financial services, e-commerce, industrial systems, and applied research.
 
 I specialize in building production systems at the intersection of:
 
