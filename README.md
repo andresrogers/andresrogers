@@ -176,10 +176,13 @@ Developed:
 
 ## Education
 
-**University of Chile**
+**University of Chile** (Ranked Top 1% globally and Top 6 regionally by QS Rankings 2026)
 
-**Master of Science in Chemical Engineering**, Summa Cum Laude
-**Civil Engineering with Biotechnology Mention**, Summa Cum Laude
+**MSc, Chemical Engineering**, *Summa Cum Laude*  
+**Quantitative & Industrial Engineering:** statistical modeling, mathematical optimization, Industrial process modeling, and data-driven methods  
+**MSc Thesis:** Machine Learning Classification for Bioinformatics and Genetic Sequence Analysis, achieving **88.8% sensitivity and 85.5% specificity**
+
+**Civil Engineer, Biotechnology specialization**, *Summa Cum Laude*
 
 ---
 
