@@ -1,127 +1,197 @@
-# 👋 Hi, I'm Andres Rogers
+# Andres Rogers, MSc
 
-### Senior Data Scientist | AI Innovator | ML Strategist | MSc. Civil Engineer
+### ML Scientist | Senior Data Scientist | Agentic AI Engineering
 
-📧 andres.rogers@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/andres-rogers)
+**Dynamic Pricing | Forecasting | Causal Inference | Revenue Optimization | Production ML | Generative AI**
 
----
-
-## 🚀 About Me
-
-Senior Data Scientist with **12+ years** in data-driven engineering and **5+ years** leading AI & ML initiatives across **biotech, finance, aviation, and manufacturing**. I transform complex data into business-ready AI solutions that deliver measurable impact.
-
-**Current Role:** Senior Data Scientist @ FPInnovations (Canada) - Building ML solutions for industrial processes and operations
-
-**Open to:** U.S.-based contractor opportunities via personal LLC
+Chile | Remote collaboration with US/Canada teams | EST Timezone
+[LinkedIn](https://linkedin.com/in/andres-rogers) | [Email](mailto\:andres.rogers@gmail.com)
 
 ---
 
-## 💼 Impact Highlights
+## About Me
 
-- 🎯 **US$3M ARR increase** through dynamic pricing models at LATAM Airlines
-- 📊 **Churn & marketing propensity models** increasing customer retention and boosting marketing ROI at LATAM Airlines
-- 📉 **Reduced forecasting error from 20% to 9.5%** using ensemble time-series models at LATAM Airlines
-- 🔧 **Built AI agents** for automated technical documentation generation at LATAM Airlines
-- 🏭 **Predictive maintenance models** reducing unplanned downtime in industrial manufacturing
-- 📰 **NLP sentiment analysis using FinBERT** for financial news classification and market intelligence at BNamericas
-- 🤝 **Collaborative filtering recommender system** from scratch for personalized Business Intelligence at scale
-- 💎 **12% conversion rate boost** via dynamic pricing in e-commerce
-- ⛏️ **7% copper yield increase** through simulation optimization
+Senior Data Scientist and ML Scientist with a **12+ year engineering trajectory** across aviation, financial services, e-commerce, industrial systems, and applied research.
 
----
+I specialize in building production systems at the intersection of:
 
-## 🛠️ Tech Stack
+- **Dynamic Pricing, Promotions & Revenue Optimization**
+- **Demand Forecasting & Time Series**
+- **Causal Inference & Incrementality Measurement**
+- **Bayesian Modeling & Statistical Machine Learning**
+- **Financial Data Integrity & Decision Support**
+- **Machine Learning Engineering & MLOps**
+- **Generative AI, LLMs, RAG & Agentic Workflows**
 
-### Languages & Core Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-
-### ML & AI
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
-
-**Frameworks:** XGBoost, LightGBM, Pandas, NumPy, SARIMAX, Prophet  
-**AI Techniques:** Forecasting, Classification, NLP, Generative AI, LLMs, RAG, Agent-Based Automation  
-**Vector DBs:** ChromaDB, Pinecone
-
-### Cloud & DevOps
-![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**Tools:** BigQuery, VertexAI, AWS SageMaker, CI/CD pipelines
-
-### Specialized Skills
-- Data Visualization & Business Intelligence
-- A/B Testing & Statistical Analysis
-- Bioinformatics & Genomic Classification
-- Agile Methodologies
+My focus is not just model accuracy. I build systems where the **data is trustworthy, the economic impact is measurable, the implementation is production-ready, and automated decisions remain verifiable by humans**.
 
 ---
 
-## 🎓 Education
+## Selected Impact
 
-**University of Chile** – Faculty of Physical and Mathematical Sciences
-- 🎓 Master of Science in Chemical Engineering – *Summa Cum Laude*
-- 🎓 Civil Engineering with Biotechnology Mention – *Summa Cum Laude*
-
----
-
-## 📊 Key Projects & Experience
-
-### 🏭 FPInnovations (2025 – Present)
-Building predictive maintenance and anomaly detection models for industrial forestry manufacturing, optimizing boiler systems and kilns
-
-### ✈️ LATAM Airlines (2022 – 2025)
-- Developed AI agent for automated technical documentation
-- Built ensemble forecasting models reducing error by 53%
-- Deployed dynamic pricing models adding $3M ARR
-- Created propensity models for customer retention
-
-### 📰 BNamericas (2021 – 2022)
-- Applied FinBERT & RoBERTa transformers for sentiment analysis
-- Built collaborative filtering recommender system from scratch
-
-### 💎 MAO Fine Jewelry E-Commerce (2017 – 2021)
-Implemented dynamic pricing integrated within e-commerce UX, increasing conversion rates by 12%
-
-### 🧬 Biotech R&D (2015 – 2017)
-- Designed solar-powered bioreactors
-- Developed medical device MVPs for stem cell extraction
-- Created ML models for genomic classification (88.8% sensitivity)
-
-### ⛏️ GEOTECHNOS (2012 – 2015)
-Chemical/Process Engineer developing mathematical simulations for copper leaching plants, optimizing mining operations
+- **US$3M ARR** generated through production dynamic pricing models using price-demand elasticity and promotional optimization at LATAM Airlines
+- Reduced demand forecasting error from **20% to 9.5%** with ensemble time-series models deployed end-to-end on **GCP Vertex AI**
+- Measured promotional incrementality using **Difference-in-Differences and quasi-experimental causal inference** when traditional A/B testing was not feasible
+- Improved Bayesian prospect identification from **43% to 62%** with no increase in false positives using a hierarchical **PyMC** model
+- Audited **revenue-critical financial and FinOps pipelines** through production-data reconciliation, edge-case analysis, regression checks, and freshness controls
+- Built predictive optimization, soft-sensor, **PINN**, anomaly detection, and industrial time-series systems
+- Increased e-commerce conversion by **12%** through dynamic pricing
+- Increased industrial copper yield by **7%** through mathematical simulation and process optimization
 
 ---
 
-## 🌐 Languages
+## Agentic AI Engineering
 
-🇪🇸 Spanish (Native) | 🇬🇧 English (Advanced - IELTS 8.0/9.0)
+I design **multi-agent workflows for production software engineering and data science**, with emphasis on orchestration, task decomposition, controlled autonomy, independent verification, and human-in-the-loop decision making.
+
+### Tools & Platforms
+
+**Claude Code | OpenAI Codex | OpenCode | MCP | Subagents | Git Worktrees | Tool-Enabled Agents | LLM APIs**
+
+Typical orchestration pattern:
+
+```text
+Scout → Architect → Engineer → Reviewer → Judge → Human
+```
+
+- **Scout:** explores repositories, dependencies, data flows, APIs, documentation, and relevant system context
+- **Architect:** designs the solution, defines interfaces, identifies risks, and decomposes work into bounded tasks
+- **Engineer:** performs scoped implementation against explicit requirements and acceptance criteria
+- **Reviewer:** independently analyzes diffs, assumptions, tests, regressions, edge cases, and architectural consistency
+- **Judge:** evaluates implementation evidence and reviewer findings against acceptance criteria, then returns `PASS`, `REVISE`, `REJECT`, or `ESCALATE`
+- **Human:** retains final authority over ambiguous, high-risk, or production-impacting decisions
+
+I use **parallel Git worktrees, subagent delegation, context isolation, model routing, MCP integrations, structured outputs, automated validation, quality gates, guardrails, and escalation rules** to improve throughput without treating LLM output as inherently correct.
+
+The objective is not maximum autonomy. It is **maximum useful autonomy with inspectability, independent verification, and minimum risk**.
 
 ---
 
-## 📫 Let's Connect
+## Machine Learning & Decision Science
 
-- 💼 LinkedIn: [andres-rogers](https://linkedin.com/in/andres-rogers)
-- 📧 Email: andres.rogers@gmail.com
+My core ML and statistical work includes:
+
+**Forecasting | Time Series | Dynamic Pricing | Price Elasticity | Revenue Optimization | Bayesian Modeling | Classification | Propensity Modeling | Churn Modeling | Recommender Systems | Causal Inference | A/B Testing | Difference-in-Differences | Incrementality Measurement | Promotion Optimization | Anomaly Detection | Predictive Maintenance**
+
+I also work extensively with mathematical optimization:
+
+**MILP | SciPy | CVXPY | PuLP | Inverse Optimization**
+
+A recurring theme is connecting predictive models to the actual decision being optimized rather than treating prediction as the final product.
 
 ---
 
-💡 *Turning complex data into AI-powered solutions that drive measurable business impact*
+## Generative AI, LLMs & NLP
 
+Experience with applied AI systems including:
 
-<!---
-andresrogers/andresrogers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **Large Language Models and Generative AI**
+- **Retrieval-Augmented Generation (RAG)**
+- **Agentic workflows and multi-agent orchestration**
+- **LLM tool use and Model Context Protocol (MCP)**
+- **Agent-based automation**
+- **NLP and transformer models**
+- **Financial news sentiment and text classification**
+- **Embedding-based retrieval and vector databases**
+- **Human-in-the-loop AI systems**
+- **AI-assisted software engineering**
+
+Technologies include:
+
+`LangChain` | `Hugging Face` | `ChromaDB` | `Pinecone` | `Claude Code` | `Codex` | `OpenCode`
+
+---
+
+## Technical Stack
+
+### Languages & Data
+
+`Python` | `SQL` | `PySpark` | `Pandas` | `NumPy` | `R`
+
+### Machine Learning
+
+`Scikit-learn` | `XGBoost` | `LightGBM` | `PyTorch` | `TensorFlow` | `Keras` | `PyMC`
+
+### Cloud & MLOps
+
+`GCP` | `Vertex AI` | `BigQuery` | `AWS` | `Azure` | `Docker` | `Git` | `CI/CD` | `MLOps`
+
+### AI & LLM Engineering
+
+`Claude Code` | `OpenAI Codex` | `OpenCode` | `MCP` | `LangChain` | `Hugging Face` | `ChromaDB` | `Pinecone`
+
+---
+
+## Selected Professional Work
+
+### Aviation, Pricing & Revenue Management
+
+Built production ML systems for **dynamic pricing, promotional optimization, elasticity estimation, demand forecasting, customer propensity, churn, ancillary revenue, and causal measurement**.
+
+Key results include:
+
+- **US$3M ARR** from dynamic pricing
+- Forecast error reduced from **20% to 9.5%**
+- Production deployment on **Vertex AI**
+- Difference-in-Differences for campaign incrementality
+- Route-level elasticity and MILP-based ancillary revenue optimization
+
+### Financial Systems
+
+Applied **Bayesian modeling, forecasting, financial data validation, MLOps, and agentic software engineering** to revenue and financial systems.
+
+Work has included:
+
+- hierarchical Bayesian modeling
+- revenue-critical pipeline auditing
+- production-data reconciliation
+- walk-forward forecasting
+- calibrated prediction intervals
+- AWS production deployment
+- automated business-system integration
+- multi-agent engineering in large codebases
+- reviewer and judge quality gates
+
+### Industrial Machine Learning
+
+Built systems using:
+
+- **Physics-Informed Neural Networks (PINNs)**
+- inverse optimization
+- soft sensors
+- predictive optimization
+- anomaly detection
+- large-scale industrial time series
+- predictive maintenance
+
+### NLP & Recommender Systems
+
+Developed:
+
+- transformer-based financial news classification and sentiment analysis
+- collaborative filtering recommender systems
+- personalized Business Intelligence systems
+
+---
+
+## Education
+
+**University of Chile**
+
+**Master of Science in Chemical Engineering**, Summa Cum Laude
+**Civil Engineering with Biotechnology Mention**, Summa Cum Laude
+
+---
+
+## Languages
+
+**Spanish:** Native
+**English:** Advanced Professional, IELTS Academic **8.0 / 9.0**
+
+---
+
+## Professional Focus
+
+**Pricing | Forecasting | Revenue Management | Causal ML | Decision Science | Optimization | Production ML | MLOps | Generative AI | LLMs | RAG | Agentic AI | Multi-Agent Systems**
+
+> **Turning complex and imperfect data into production decision systems with measurable business impact.**
